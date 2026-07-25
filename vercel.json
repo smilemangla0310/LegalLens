@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd legal-lens && npm run build",
+  "outputDirectory": "legal-lens/.next",
+  "framework": "nextjs"
+}

@@ -1,0 +1,36 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Python Cache & Databases
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+contracts.db
+chroma_db/
+uploads/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Zip Archives & Large Temporary Files
+*.zip
+frontend.zip
+
+# IDE & OS Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
